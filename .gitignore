@@ -5,7 +5,7 @@ node_modules/
 .next/
 out/
 
-# environment variables — NEVER commit these
+# environment variables - never commit these
 .env
 .env.local
 .env.*.local
@@ -15,7 +15,6 @@ out/
 
 # TypeScript
 *.tsbuildinfo
-next-env.d.ts
 
 # OS
 .DS_Store
